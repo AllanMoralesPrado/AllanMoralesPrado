@@ -6,7 +6,15 @@ Soy estudiante (aún, pero no por mucho) de Ingeniería Civil en Computación me
 Formar parte de un equipo de desarrollo de software de una organización que me apoye con mi aprendizaje y me ayude a crecer como profesional durante al menos cinco años.
 
 ## :seedling: ¿Qué hago ahora? :seedling:
-Recientemente estoy **finalizando un curso de Desarrollo Web Full Stack Python** donde he realizado proyectos con el framework Django y también estoy **trabajando en mi proyecto de título con modalidad investigación aplicada en el área de Data Science**, donde crearé un prototipo no funcional de un modelo predictivo con algoritmos de machine learning para una empresa que necesita aumentar la tasa de respuesta de encuestas telefónicas para sus investigaciones.
+- Recientemente estoy **finalizando un curso de Desarrollo Web Full Stack Python** donde he realizado proyectos con el framework Django
+- - Proyecto [Only-flans](https://github.com/AllanMoralesPrado/onlyflans-project.git) :cake:
+- - Proyecto [django-CRUD](https://github.com/AllanMoralesPrado/django-CRUD.git) :computer:
+- También estoy **trabajando en mi proyecto de título con modalidad investigación aplicada en el área de Data Science**, donde crearé un prototipo no funcional de un modelo predictivo con algoritmos de machine learning para una empresa que necesita aumentar la tasa de respuesta de encuestas telefónicas para sus investigaciones.
+
+## Puedes encontrarme en :earth_americas::
+- [Twitter](https://twitter.com/AllanMPrado)
+- [Gmail](mailto:allanmoralesprado@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/allan-morales-prado/)
 
 <!--
 **AllanMoralesPrado/AllanMoralesPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
