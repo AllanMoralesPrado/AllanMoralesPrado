@@ -1,4 +1,12 @@
-### Hi there 👋
+## Saludos, gente. Soy Allan 👋
+
+Soy estudiante (aún, pero no por mucho) de Ingeniería Civil en Computación mención Informática. Tuve mi primer computador en los años 90 y hasta el día de hoy no me he despegado de la tecnología, lo que motivó mi decisión de estudiar una carrera TI.
+
+## Mi meta es... :trophy: :running: :walking:
+Formar parte de un equipo de desarrollo de software de una organización que me apoye con mi aprendizaje y me ayude a crecer como profesional durante al menos cinco años.
+
+## :seedling: ¿Qué hago ahora? :seedling:
+Recientemente estoy **finalizando un curso de Desarrollo Web Full Stack Python** donde he realizado proyectos con el framework Django y también estoy **trabajando en mi proyecto de título con modalidad investigación aplicada en el área de Data Science**, donde crearé un prototipo no funcional de un modelo predictivo con algoritmos de machine learning para una empresa que necesita aumentar la tasa de respuesta de encuestas telefónicas para sus investigaciones.
 
 <!--
 **AllanMoralesPrado/AllanMoralesPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
