@@ -9,7 +9,6 @@ Formar parte de un equipo de desarrollo de software de una organización que me 
 - Recientemente estoy **finalizando un curso de Desarrollo Web Full Stack Python** donde he realizado proyectos con el framework Django
   - Proyecto [Only-flans](https://github.com/AllanMoralesPrado/onlyflans-project.git) :cake:
   - Proyecto [django-CRUD](https://github.com/AllanMoralesPrado/django-CRUD.git) :computer:
-- También estoy **trabajando en mi proyecto de título con modalidad investigación aplicada en el área de Data Science**, donde crearé un prototipo no funcional de un modelo predictivo con algoritmos de machine learning para una empresa que necesita aumentar la tasa de respuesta de encuestas telefónicas para sus investigaciones.
 
 ## Puedes encontrarme en :earth_americas::
 - [Twitter](https://twitter.com/AllanMPrado)
