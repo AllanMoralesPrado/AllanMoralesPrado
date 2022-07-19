@@ -1,4 +1,4 @@
-## Saludos, gente. Soy Allan 👋
+## Saludos. Soy Allan 👋
 
 Soy estudiante (aún, pero no por mucho) de Ingeniería Civil en Computación mención Informática. Tuve mi primer computador en los años 90 y hasta el día de hoy no me he despegado de la tecnología, lo que motivó mi decisión de estudiar una carrera TI.
 
